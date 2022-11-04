@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "dt_kpi_backend",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bot5294/DT_KPI_backend.git"
+  },
+  "author": "Aqib Ahmed (bot5294)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bot5294/DT_KPI_backend/issues"
+  },
+  "homepage": "https://github.com/bot5294/DT_KPI_backend#readme"
+}
